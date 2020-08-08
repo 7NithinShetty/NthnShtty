@@ -1,5 +1,8 @@
 ### Hi, I'm Nithin 👋
 
+- 🔭 I’m currently working for Hitachi Rail STS as a RAMS Engineer.
+- 🌱 I’m currently learning Web Designing and Developing.
+
 <!--
 **NthnShtty/NthnShtty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
