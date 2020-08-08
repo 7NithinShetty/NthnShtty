@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working for Hitachi Rail STS as a RAMS Engineer
-- 🌱 I’m currently learning Web Designing and Developing
+- 🔭 I’m currently working for Hitachi Rail STS as a RAMS Engineer.
+- 🌱 I’m currently learning Web Designing and Developing.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
